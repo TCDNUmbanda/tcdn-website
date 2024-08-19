@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmytcdn_website=self.webpackChunkmytcdn_website||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/tcdn-website/blog","blogTitle":"Blog","authorsListPath":"/tcdn-website/blog/authors"}')}}]);
