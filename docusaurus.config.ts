@@ -51,15 +51,7 @@ const config: Config = {
       logo: {
         alt: 'Logo da Casa',
         src: './img/TCDN_LOGO.svg',
-      },
-      items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: ' '
-        }
-      ],
+      }
     },
     footer: {
       style: 'dark',
