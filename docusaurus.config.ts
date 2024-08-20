@@ -34,7 +34,8 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts'
+          sidebarPath: './sidebars.ts',
+          routeBasePath: '/'
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -73,7 +74,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Vitor Dias [Github](https://github.com/vitor-dias).`,
+      copyright: `Copyright © ${new Date().getFullYear()} Vitor Dias (https://github.com/vitor-dias).`,
     },
     prism: {
       theme: prismThemes.github,
