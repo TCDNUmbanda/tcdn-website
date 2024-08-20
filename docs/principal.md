@@ -13,21 +13,34 @@ Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito apr
  - Toda a regra da casa se encontra na [Cartilha](https://github.com/TCDNUmbanda/TCDNUmbanda/blob/main/RegrasCasa/1-Cartilha.pdf)
 
 ## Uniforme Masculino
-- Calças brancas
-- Filá branco (recomendado em giras comuns; obrigatório em entregas, obrigações, amacis e festividades)
-- Pano de bater cabeça
-- Camisetas com estampa da Tenda
-- Guia das sete linhas (utilizar cordonê para fazê-la) - Pode ser encomendada com o Roni ou fazê-la conforme as instruções [aqui](./guia7linhas.md)
-- Guia de esquerda (utilizar cordonê para fazê-la) - Pode ser encomendada com o Roni ou fazê-la conforme as instruções [aqui](guiaesquerda.md)
-- Fita correspondente à função
+
+-Giras Direita
+	- Calças brancas
+	- Filá branco (recomendado em giras comuns; obrigatório em entregas, obrigações, amacis e festividades)
+	- Pano de bater cabeça
+	- Camisetas com estampa da Tenda
+	- Guia das sete linhas (utilizar cordonê para fazê-la) - Pode ser encomendada com o Roni ou fazê-la conforme as instruções [aqui](./guia7linhas.md)
+	- Fita correspondente à função
+
+-Giras Esquerda
+	- Calças pretas
+	- Camisetas pretas com estampa da Tenda
+	- Guia de esquerda (utilizar cordonê para fazê-la) - Pode ser encomendada com o Roni ou fazê-la conforme as instruções [aqui](guiaesquerda.md)
 
 ## Uniforme Feminino
-- Saia/Saiote brancos
-- Pano de cabeça (Ojá) branco
-- Pano de bater cabeça
-- Camisetas ou batas com estampa da Tenda
-- Guia das sete linhas (utilizar cordonê para fazê-la)
-- Fita correspondente à função
+-Giras Direita
+	- Saia/Saiote brancos
+	- Pano de cabeça (Ojá) branco
+	- Pano de bater cabeça
+	- Camisetas com estampa da Tenda
+	- Guia das sete linhas (utilizar cordonê para fazê-la) - Pode ser encomendada com o Roni ou fazê-la conforme as instruções [aqui](./guia7linhas.md)
+	- Fita correspondente à função
+
+-Giras Esquerda
+	- Saia/Saiote preta
+	- Calças pretas
+	- Camisetas pretas com estampa da Tenda
+	- Guia de esquerda (utilizar cordonê para fazê-la) - Pode ser encomendada com o Roni ou fazê-la conforme as instruções [aqui](guiaesquerda.md)
 
  ## Bibliografia inicial recomendada
 	- [AutoConhecimento](https://github.com/TCDNUmbanda/TCDNUmbanda/blob/main/LiteraturaInicial/1-AutoConhecimento.pdf) 
