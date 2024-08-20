@@ -9,7 +9,7 @@ Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito apr
 
 ## Primeiros passos
 
- - Toda a regra da casa se encontra na [Cartilha](./RegrasCasa/1-Cartilha.pdf)
+ - Toda a regra da casa se encontra na [Cartilha](https://github.com/TCDNUmbanda/TCDNUmbanda/blob/main/RegrasCasa/1-Cartilha.pdf)
  - Uniforme
  - Camiseta branca
  - Calça branca (atentar a não ser fina demais e/ou transparente)
