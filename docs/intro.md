@@ -2,46 +2,34 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Bem vindo(a)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito aprendizado e dedicação.
 
-## Getting Started
+## Primeiros passos
 
-Get started by **creating a new site**.
+ - Toda a regra da casa se encontra na [Cartilha](RegrasCasa/1-Cartilha.pdf)
+ - Uniforme
+ - Camiseta branca
+ - Calça branca (atentar a não ser fina demais e/ou transparente)
+ - Guia das 7 linhas (pode ser encomendada com o Roni ou fazer a sua - Mais informações na cartilha)
+ - Bibliografia inicial recomendada
+	- [AutoConhecimento](LiteraturaInicial/1-AutoConhecimento.pdf) 
+	- [Guia do praticante de Umbanda](LiteraturaInicial/2-GuiaPraticanteUmbanda) 
+ 	- [Umbanda Dentro do Terreiro](LiteraturaInicial/3-UmbandaDentroTerreiro-Resumo.pdf) 
+ 	- [Orientação aos Cambonos](LiteraturaInicial/4-OrientacaoCambonos.pdf) 
+  - [Glossário](LiteraturaInicial/5-Glossario.pdf) 
+  - [Teologia da Umbanda](LiteraturaInicial/6-TeologiaUmbanda.pdf) 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Horários
+Giras de Desenvolvimento - Chegada até as 18
+Giras Abertas - Chega até as 17:30
 
-### What you'll need
+## Giras de desenvolvimento
+Com o objetivo de que todos tenham o conhecimento de forma direta e equalizada, antes das giras de desenvolvimento estamos nos reunindo mais cedo nos dias de Gira de desenvolvimento, para explicar conceitos, deveres, pontos específicos da casa e tirar eventuais dúvidas.
+Além disse a gira de desenvolvimento é o momento dos dirigentes e entidades chefe dividirem o conhecimento e passar ainda mais instruções, evitem ao máximo faltar nesses dias.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Materiais Complementares
+Aqui estão todos os materiais para estudos mais profundos sobre a umbanda.
+Escolha um tópico e explore o que temos de material
+O material poderá ser encontrado [aqui](Estudo) 
