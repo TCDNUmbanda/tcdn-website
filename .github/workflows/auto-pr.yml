@@ -2,8 +2,6 @@ name: Create Pull Request
 
 on:
   push:
-    branches:
-      - your-branch-name  # Substitua 'your-branch-name' pela branch onde você faz os commits
 
 jobs:
   create-pr:
