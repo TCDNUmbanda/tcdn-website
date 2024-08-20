@@ -18,6 +18,7 @@ Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito apr
 - Pano de bater cabeça
 - Camisetas com estampa da Tenda
 - Guia das sete linhas (utilizar cordonê para fazê-la) - Pode ser encomendada com o Roni ou fazê-la conforme as instruções [aqui](./guia7linhas.md)
+- Guia de esquerda (utilizar cordonê para fazê-la) - Pode ser encomendada com o Roni ou fazê-la conforme as instruções [aqui](guiaesquerda.md)
 - Fita correspondente à função
 
 ## Uniforme Feminino

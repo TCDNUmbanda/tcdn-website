@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Guia 7 linhas
+sidebar_label: Guia de Esquerda
 ---
 
 # Fio de Contas de Proteção de esquerda
@@ -43,15 +43,15 @@ O **fio de contas de proteção** é uma ferramenta espiritual utilizada para pr
      - **Etapa:** Após as miçangas pretas, adicione 7 miçangas vermelhas no fio, entoando a saudação correspondente para Pombogira a cada miçanga.
 
 3. **Fechamento**
-   - Quando todas as miçangas estiverem colocadas, finalize a guia com uma **firma**. A firma pode ser uma conta maior ou uma peça especial que simboliza a proteção e consagração da guia.
+
+Quando todas as miçangas estiverem colocadas, finalize a guia com uma **firma**. A firma pode ser uma conta maior ou uma peça especial que simboliza a proteção e consagração da guia.
 
 4. **Consagração**
-   - Após a montagem, a guia deve ser consagrada por uma entidade em uma gira de esquerda.
+
+Após a montagem, a guia deve ser consagrada por uma entidade em uma gira de esquerda.
 
 5. **Uso**
-   - A guia deve ser usada com respeito e devoção, seguindo as orientações do seu guia espiritual ou da tradição que você segue.
 
-## Importância
+Essa guia deverá ser utilizada somente para os trabalhos. Para proteção diária deverá ser feita outra guia.
 
 
-Seguindo corretamente o ritual de montagem e consagração, você cria um instrumento poderoso para proteção e conexão espiritual.
