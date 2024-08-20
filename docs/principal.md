@@ -14,7 +14,7 @@ Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito apr
 
 ## Uniforme Masculino
 
--Giras Direita
+- Giras Direita
 	- Calças brancas
 	- Filá branco (recomendado em giras comuns; obrigatório em entregas, obrigações, amacis e festividades)
 	- Pano de bater cabeça
@@ -22,7 +22,7 @@ Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito apr
 	- Guia das sete linhas (utilizar cordonê para fazê-la) - Pode ser encomendada com o Roni ou fazê-la conforme as instruções [aqui](./guia7linhas.md)
 	- Fita correspondente à função
 
--Giras Esquerda
+- Giras Esquerda
 	- Calças pretas
 	- Camisetas pretas com estampa da Tenda
 	- Guia de esquerda (utilizar cordonê para fazê-la) - Pode ser encomendada com o Roni ou fazê-la conforme as instruções [aqui](guiaesquerda.md)
