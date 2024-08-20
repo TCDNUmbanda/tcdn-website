@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Tenda de Caridade Divina Nossa Senhora',
   tagline: 'Página de boas vindas',
-  favicon: './static/img/TCDN.ico',
+  favicon: './img/TCDN.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -49,7 +49,7 @@ const config: Config = {
       title: 'Tenda de Caridade Divina Nossa Senhora',
       logo: {
         alt: 'Logo da Casa',
-        src: './static/img/TCDN_LOGO.svg',
+        src: './img/TCDN_LOGO.svg',
       },
       items: [
         {
