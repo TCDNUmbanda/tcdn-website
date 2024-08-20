@@ -13,11 +13,11 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Set up GitHub CLI
-      run: sudo apt-get install gh
-
     - name: Create Pull Request
-      run: |
-        gh pr create --base main --head feature/version --title "Auto PR" --body "Automated pull request created by GitHub Actions"
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # Substitua pelo segredo PAT
+      run: |
+        curl -X POST https://api.github.com/repos/${{ github.repository }}/pulls \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token $GITHUB_TOKEN" \
+          -d '{"title":"Auto PR","body":"Automated pull request created by GitHub Actions","head":"feature/version","base":"main"}'
