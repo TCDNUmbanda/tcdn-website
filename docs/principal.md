@@ -11,11 +11,24 @@ Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito apr
 ## Primeiros passos
 
  - Toda a regra da casa se encontra na [Cartilha](https://github.com/TCDNUmbanda/TCDNUmbanda/blob/main/RegrasCasa/1-Cartilha.pdf)
- - Uniforme
- - Camiseta branca
- - Calça branca (atentar a não ser fina demais e/ou transparente)
- - Guia das 7 linhas (pode ser encomendada com o Roni ou fazer a sua - Mais informações na cartilha)
- - Bibliografia inicial recomendada
+
+## Uniforme Masculino
+- Calças brancas
+- Filá branco (recomendado em giras comuns; obrigatório em entregas, obrigações, amacis e festividades)
+- Pano de bater cabeça
+- Camisetas com estampa da Tenda
+- Guia das sete linhas (utilizar cordonê para fazê-la) - Pode ser encomendada com o Roni ou fazê-la conforme as instruções [aqui](./guia7linhas.md)
+- Fita correspondente à função
+
+## Uniforme Feminino
+- Saia/Saiote brancos
+- Pano de cabeça (Ojá) branco
+- Pano de bater cabeça
+- Camisetas ou batas com estampa da Tenda
+- Guia das sete linhas (utilizar cordonê para fazê-la)
+- Fita correspondente à função
+
+ ## Bibliografia inicial recomendada
 	- [AutoConhecimento](https://github.com/TCDNUmbanda/TCDNUmbanda/blob/main/LiteraturaInicial/1-AutoConhecimento.pdf) 
 	- [Guia do praticante de Umbanda](https://github.com/TCDNUmbanda/TCDNUmbanda/blob/main/LiteraturaInicial/2-GuiaPraticanteUmbanda.pdf) 
  	- [Umbanda Dentro do Terreiro](https://github.com/TCDNUmbanda/TCDNUmbanda/blob/main/LiteraturaInicial/3-UmbandaDentroTerreiro-Resumo.pdf) 
