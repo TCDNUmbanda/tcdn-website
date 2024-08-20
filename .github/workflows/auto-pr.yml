@@ -1,0 +1,23 @@
+name: Create Pull Request
+
+on:
+  push:
+    branches:
+      - feature/version  # Substitua 'feature/version' pela branch onde você faz os commits
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Create Pull Request
+      env:
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # Substitua pelo segredo PAT
+      run: |
+        curl -X POST https://api.github.com/repos/${{ github.repository }}/pulls \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token $GITHUB_TOKEN" \
+          -d '{"title":"Auto PR","body":"Automated pull request created by GitHub Actions","head":"feature/version","base":"main"}'
