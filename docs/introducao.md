@@ -9,7 +9,7 @@ Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito apr
 
 ## Primeiros passos
 
- - Toda a regra da casa se encontra na [Cartilha](./RegrasCasa/1-Cartilha.pdf)
+ - Toda a regra da casa se encontra na [Cartilha](https://github.com/TCDNUmbanda/TCDNUmbanda/blob/main/RegrasCasa/1-Cartilha.pdf)
  - Uniforme
  - Camiseta branca
  - Calça branca (atentar a não ser fina demais e/ou transparente)
@@ -23,15 +23,18 @@ Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito apr
   	- [Teologia da Umbanda](https://github.com/TCDNUmbanda/TCDNUmbanda/blob/main/LiteraturaInicial/6-TeologiaUmbanda.pdf) 
 
 ## Horários
-Giras de Desenvolvimento - Chegada até as 18
+
+Giras de Desenvolvimento - Chegada até as 18:00
 
 Giras Abertas - Chegada até as 17:30
 
 ## Giras de desenvolvimento
+
 Com o objetivo de que todos tenham o conhecimento de forma direta e equalizada, antes das giras de desenvolvimento estamos nos reunindo mais cedo nos dias de Gira de desenvolvimento, para explicar conceitos, deveres, pontos específicos da casa e tirar eventuais dúvidas.
 Além disse a gira de desenvolvimento é o momento dos dirigentes e entidades chefe dividirem o conhecimento e passar ainda mais instruções, evitem ao máximo faltar nesses dias.
 
 ## Materiais Complementares
+
 Aqui estão todos os materiais para estudos mais profundos sobre a umbanda.
 
 Escolha um tópico e explore o que temos de material
