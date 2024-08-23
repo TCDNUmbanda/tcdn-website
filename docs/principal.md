@@ -4,7 +4,7 @@ slug: /
 sidebar_label: Início
 ---
 
-# Bem vindo(a)
+# Bem vindo
 
 Muito obrigado pela confiança e esperamos que tenhamos uma jornada de muito aprendizado e dedicação.
 
